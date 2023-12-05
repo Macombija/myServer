@@ -1,0 +1,152 @@
+[
+  {
+    "id": "1",
+    "division": "Division",
+    "breakfast_lunch": "33",
+    "per_diem": "2343",
+    "ticketing_travel": "435",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "2",
+    "division": "CAO",
+    "breakfast_lunch": "207804",
+    "per_diem": "353454",
+    "ticketing_travel": "76543",
+    "conference": "456543",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43500"
+  },
+  {
+    "id": "3",
+    "division": "EPC",
+    "breakfast_lunch": "66780",
+    "per_diem": "324532",
+    "ticketing_travel": "1345",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "4",
+    "division": "VLA",
+    "breakfast_lunch": "11000",
+    "per_diem": "34523",
+    "ticketing_travel": "8765",
+    "conference": "974",
+    "accountable_imprest": "904600",
+    "total_expenditure": "34203500"
+  },
+  {
+    "id": "5",
+    "division": "IAI",
+    "breakfast_lunch": "146900",
+    "per_diem": "23432",
+    "ticketing_travel": "9876",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "6",
+    "division": "TO&S Division",
+    "breakfast_lunch": "456546",
+    "per_diem": "934543",
+    "ticketing_travel": "23456",
+    "conference": "45657",
+    "accountable_imprest": "4500324.52",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "7",
+    "division": "IMD Headquaters",
+    "breakfast_lunch": "2343",
+    "per_diem": "12321",
+    "ticketing_travel": "2345",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "8",
+    "division": "IMD Northern Region",
+    "breakfast_lunch": "34534",
+    "per_diem": "12300",
+    "ticketing_travel": "34543",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "3403500"
+  },
+  {
+    "id": "9",
+    "division": "IMD Southern Region",
+    "breakfast_lunch": "3451",
+    "per_diem": "34654",
+    "ticketing_travel": "2432",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "10",
+    "division": "IMD Western Region",
+    "breakfast_lunch": "6576580",
+    "per_diem": "3400",
+    "ticketing_travel": "12412",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "11",
+    "division": "IMD Rift Valley Region",
+    "breakfast_lunch": "324324",
+    "per_diem": "12300",
+    "ticketing_travel": "12321",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "12",
+    "division": "Investigations ",
+    "breakfast_lunch": "40992300",
+    "per_diem": "6700",
+    "ticketing_travel": "12434",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "13",
+    "division": "Prosecution & Enforcement ",
+    "breakfast_lunch": "234234",
+    "per_diem": "32500",
+    "ticketing_travel": "99606",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "14",
+    "division": "Commissioners Office",
+    "breakfast_lunch": "123241",
+    "per_diem": "12400",
+    "ticketing_travel": "240",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  },
+  {
+    "id": "15",
+    "division": "total",
+    "breakfast_lunch": "3",
+    "per_diem": "30",
+    "ticketing_travel": "4",
+    "conference": "45657",
+    "accountable_imprest": "904600",
+    "total_expenditure": "43503500"
+  }
+]
